@@ -1,1 +1,2 @@
 Pierwsza linia teskstu
+Conflict 2
